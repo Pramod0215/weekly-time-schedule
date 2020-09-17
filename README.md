@@ -1,9 +1,18 @@
-#react-weekly-time-schedule
+# react-weekly-time-schedule
 
-Install Package
+### Install Package
 ```
 npm install react-daytime --save
 ```
-Clone repo
+### Clone repo
 ```
-git clone: 
+git clone: https://github.com/Pramod0215/weekly-time-schedule.git
+```
+### Build on server
+```
+install i
+```
+Run
+```
+npm start
+```
